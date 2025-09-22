@@ -2,7 +2,7 @@
 
 This project visualizes **cumulative COVID-19 deaths per million** across the world with an **animated timeline (2020–2025)**.
 
-👉 **[View Live Animation](https://beginnersluck1810.github.io/Covid_Data/index.html)**
+👉 **[View Live Animation](https://beginnersluck1810.github.io/Covid-Data/index.html)**
 
 ## 🔹 Features
 - Interactive world map with choropleth coloring (darker red = higher deaths/million)
